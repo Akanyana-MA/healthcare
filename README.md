@@ -1,2 +1,2 @@
 # healthcare
-coe for USSD /SMS health booking system
+code for USSD /SMS health booking system
